@@ -81,3 +81,66 @@ Output example #3 content_copy
 NO
 ```
 ---
+
+## Task 3 - Characters doubling
+Given a string consisting of lowercase Latin letters, punctuation marks and spaces. Double all Latin letters in it.
+
+### Input
+One line, consisting of lowercase Latin letters, punctuation marks and spaces.
+
+### Output
+Print a string with all doubled Latin letters.
+---
+```
+Input example #1
+welcome to python!
+```
+```
+Output example #1
+wweellccoommee ttoo ppyytthhoonn!
+```
+---
+## Task 4 - The youngest symbol
+In the line consisting of Latin letters, find and print the youngest letter (the character having the smallest ASCII code), as well as the number of its repetitions in the line.
+
+### Input data
+One line of Latin letters.
+
+### Output
+Print the character with the smallest ASCII code and the number of its repetitions in the line.
+
+```
+Input example #1 
+abrakadabra
+```
+```
+Output example #1 
+a 5
+```
+--- 
+
+## Task 5 - Sum of matrices
+Given two matrices `A` and `B`. Find their sum `C = A + B`.
+
+### Input
+First line contains the size of matrices `n` and `m` `(1 ≤ n, m ≤ 100)`. Each of the next `n` lines contains m integers and describe matrix `A`. Then empty line is given, after which the description of matrix `B` is given in the same format.
+
+### Output
+Print the matrix `С`: `n` rows, each with `m` integers.
+
+```
+Input example #1
+3 4
+3 4 5 6
+1 2 3 4
+7 6 5 4
+0 0 -3 -2
+-1 3 4 5
+5 6 1 2
+```
+```
+Output example #1
+3 4 2 4 
+0 5 7 9 
+12 12 6 6 
+```
