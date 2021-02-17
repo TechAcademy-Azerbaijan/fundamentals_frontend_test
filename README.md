@@ -36,7 +36,7 @@ edmonton
 4
 1
 ```
-
+--- 
 ## Task 2 - Elections
 Sema and Yura take part in the elections. But it seems to them too boring, and they interviewed all the voters for whom they had voted.
 
